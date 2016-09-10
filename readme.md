@@ -44,4 +44,4 @@
 
 ## 测试
 
-测试脚本使用了 [Jasmine](http://pivotal.github.io/jasmine/)。进入 `test` 目录，运行 `bower install` 安装 Jasmine，然后用浏览器打开 `index.html` 即可。
+测试脚本使用了 [Jasmine](https://jasmine.github.io/)。进入 `test` 目录，运行 `bower install` 安装 Jasmine，然后用浏览器打开 `index.html` 即可。
